@@ -11,6 +11,10 @@ I was hearing about Svelte a lot and after listening to this talk I wanted to gi
 
 ## Checkout the live [demo](https://manan30.github.io/svelte-trivia/)
 
+**Link**
+
+- https://dev.to/manan30/i-created-a-quiz-app-using-svelte-and-now-i-cannot-go-back-to-any-other-framework-1jeo
+
 ## Questions or Issues
 
 Please open up any issues or discussions in the issues tab.
